@@ -1,0 +1,253 @@
+entries:
+  - title: The Rising of the Shield Hero
+    seasons:
+      - season: 1
+        anilist-id: 99263
+  - title: "Re:Zero kara Hajimeru Isekai Seikatsu"
+    seasons:
+      - season: 1
+        anilist-id: 108632
+        start: 26
+      - season: 1
+        anilist-id: 119661
+        start: 39
+  - title: "Code Geass: Hangyaku no Lelouch"
+    seasons:
+      - season: 1
+        anilist-id: 1575
+      - season: 2
+        anilist-id: 2904
+  - title: Gintama
+    seasons:
+      - season: 1
+        anilist-id: 918
+      - season: 2
+        anilist-id: 918
+      - season: 3
+        anilist-id: 918
+      - season: 4
+        anilist-id: 918
+      - season: 5
+        anilist-id: 9969
+      - season: 6
+        anilist-id: 15417
+      - season: 7
+        anilist-id: 20996
+      - season: 8
+        anilist-id: 97889
+      - season: 9
+        anilist-id: 99714
+      - season: 10
+        anilist-id: 100784
+        start: 1
+      - season: 10
+        anilist-id: 101925
+        start: 13
+  - title: "86"
+    seasons:
+      - season: 1
+        anilist-id: 116589
+        start: 1
+      - season: 1
+        anilist-id: 131586
+        start: 12
+  - title: "Hige o Soru. Soshite Joshikousei o Hirou."
+    seasons:
+      - season: 1
+        anilist-id: 114232
+  - title: "Boku no Hero Academia"
+    seasons:
+      - season: 1
+        anilist-id: 21459
+        start: 1
+      - season: 1
+        anilist-id: 21856
+        start: 14
+      - season: 1
+        anilist-id: 100166
+        start: 39
+      - season: 1
+        anilist-id: 104276
+        start: 64
+      - season: 1
+        anilist-id: 117193
+        start: 89
+  - title: "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
+    seasons:
+      - season: 2
+        anilist-id: 117448
+  - title: "Tensei Shitara Slime Datta Ken: Tensura Nikki"
+    seasons:
+      - season: 1
+        anilist-id: 116741
+  - title: "Tensei Shitara Slime Datta Ken"
+    seasons:
+      - season: 1
+        anilist-id: 101280
+        start: 1
+      - season: 1
+        anilist-id: 108511
+        start: 25
+      - season: 1
+        anilist-id: 116742
+        start: 37
+  - title: "100-man no Inochi no Ue ni Ore wa Tatte Iru"
+    seasons:
+      - season: 1
+        anilist-id: 116242
+        start: 1
+      - season: 1
+        anilist-id: 127366
+        start: 13
+  - title: "Kono Subarashii Sekai ni Shukufuku o!"
+    seasons:
+      - season: 1
+        anilist-id: 21202
+        start: 1
+      - season: 2
+        anilist-id: 21699
+        start: 1
+  - title: "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
+    seasons:
+      - season: 1
+        anilist-id: 102976
+        start: 1
+  - title: "Seishun Buta Yarou wa Bunny Girl Senpai no Yume o Minai"
+    seasons:
+      - season: 1
+        anilist-id: 101291
+        start: 1
+  - title: "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai"
+    seasons:
+      - season: 1
+        anilist-id: 104157
+        start: 1
+  - title: "Getsuyoubi no Tawawa"
+    seasons:
+      - season: 1
+        anilist-id: 97716
+        start: 1
+      - season: 1
+        anilist-id: 98060
+        start: 13
+      - season: 2
+        anilist-id: 139449
+        start: 1
+  - title: "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+    seasons:
+      - season: 1
+        anilist-id: 20994
+        start: 1
+      - season: 1
+        anilist-id: 21364
+        start: 13
+  - title: "Overlord"
+    seasons:
+      - season: 1
+        anilist-id: 20832
+        start: 1
+      - season: 2
+        anilist-id: 98437
+        start: 1
+      - season: 3
+        anilist-id: 101474
+        start: 1
+  - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
+    seasons:
+      - season: 1
+        anilist-id: 108465
+        start: 1
+      - season: 1
+        anilist-id: 127720
+        start: 12
+  - title: "Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen"
+    seasons:
+      - season: 1
+        anilist-id: 112151
+        start: 1
+  - title: "Shingeki no Kyojin"
+    seasons:
+      - season: 1
+        anilist-id: 16498
+        start: 1
+      - season: 1
+        anilist-id: 20958
+        start: 26
+      - season: 1
+        anilist-id: 99147
+        start: 38
+      - season: 1
+        anilist-id: 104578
+        start: 50
+      - season: 1
+        anilist-id: 110277
+        start: 60
+      - season: 1
+        anilist-id: 131681
+        start: 76
+  - title: "Kimetsu no Yaiba"
+    seasons:
+      - season: 1
+        anilist-id: 101922
+        start: 1
+      - season: 2
+        anilist-id: 129874
+        start: 1
+      - season: 3
+        anilist-id: 142329
+        start: 1
+  - title: "Shuumatsu no Harem"
+    seasons:
+      - season: 1
+        anilist-id: 118465
+        start: 1
+  - title: "Sono Bisque Doll wa Koi o Suru"
+    seasons:
+      - season: 1
+        anilist-id: 132405
+        start: 1
+  - title: "Leadale no Daichi nite"
+    seasons:
+      - season: 1
+        anilist-id: 130166
+        start: 1
+  - title: "Kaguya-sama wa Kokurasetai: Tensai-tachi no Ren'ai Zunousen"
+    seasons:
+      - season: 1
+        anilist-id: 101921
+        start: 1
+      - season: 2
+        anilist-id: 112641
+        start: 1
+      - season: 3
+        anilist-id: 125367
+        start: 1
+  - title: "Gekijouban Made in Abyss: Fukaki Tamashii no Reimei"
+    seasons:
+      - season: 1
+        anilist-id: 100643
+        start: 1
+  - title: "Shinseiki Evangelion Gekijouban: Air / Magokoro o, Kimi ni"
+    seasons:
+      - season: 1
+        anilist-id: 32
+        start: 1
+  - title: "Evangelion Shin Gekijouban: Jo"
+    seasons:
+      - season: 1
+        anilist-id: 2759
+        start: 1
+      - season: 1
+        anilist-id: 3784
+        start: 2
+      - season: 1
+        anilist-id: 3785
+        start: 3
+      - season: 1
+        anilist-id: 3786
+        start: 4
+  - title: "Spy x Family"
+    seasons:
+      - season: 1
+        anilist-id: 140960
+        start: 1
