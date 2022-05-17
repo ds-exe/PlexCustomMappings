@@ -251,3 +251,11 @@ entries:
       - season: 1
         anilist-id: 140960
         start: 1
+  - title: "Ansatsu Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 20755
+        start: 1
+      - season: 2
+        anilist-id: 21170
+        start: 1
