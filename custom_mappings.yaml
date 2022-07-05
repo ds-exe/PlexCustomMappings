@@ -259,3 +259,18 @@ entries:
       - season: 2
         anilist-id: 21170
         start: 1
+  - title: "Tensei Kenja no Isekai Life: Daini no Shokugyou o Ete, Sekai Saikyou ni Narimashita"
+    seasons:
+      - season: 1
+        anilist-id: 129192
+        start: 1
+  - title: "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai o Tsukisusumu"
+    seasons:
+      - season: 1
+        anilist-id: 146210
+        start: 1
+  - title: "Youjo Senki (2019)"
+    seasons:
+      - season: 1
+        anilist-id: 100878
+        start: 1
