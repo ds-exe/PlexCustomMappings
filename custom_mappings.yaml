@@ -274,3 +274,16 @@ entries:
       - season: 1
         anilist-id: 100878
         start: 1
+  - title: "Made in Abyss"
+    seasons:
+      - season: 1
+        anilist-id: 97986
+        start: 1
+      - season: 2
+        anilist-id: 114745
+        start: 1
+  - title: "Isekai Meikyuu de Harem o"
+    seasons:
+      - season: 1
+        anilist-id: 127090
+        start: 1
