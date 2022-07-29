@@ -287,3 +287,13 @@ entries:
       - season: 1
         anilist-id: 127090
         start: 1
+  - title: "Hataraku Maou-sama!"
+    seasons:
+      - season: 2
+        anilist-id: 130592
+        start: 1
+  - title: "Dr. Stone"
+    seasons:
+      - season: 2
+        anilist-id: 113936
+        start: 1
