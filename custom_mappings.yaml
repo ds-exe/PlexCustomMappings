@@ -297,3 +297,8 @@ entries:
       - season: 2
         anilist-id: 113936
         start: 1
+  - title: "Cuckoo no Iinazuke"
+    seasons:
+      - season: 1
+        anilist-id: 132052
+        start: 1
