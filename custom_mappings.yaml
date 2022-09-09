@@ -302,3 +302,8 @@ entries:
       - season: 1
         anilist-id: 132052
         start: 1
+  - title: "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita"
+    seasons:
+      - season: 1
+        anilist-id: 126213
+        start: 1
