@@ -307,3 +307,14 @@ entries:
       - season: 1
         anilist-id: 126213
         start: 1
+  - title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen"
+    seasons:
+      - season: 1
+        anilist-id: 108268
+        start: 1
+      - season: 1
+        anilist-id: 113693
+        start: 15
+      - season: 1
+        anilist-id: 121176
+        start: 27
