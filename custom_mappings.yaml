@@ -318,3 +318,8 @@ entries:
       - season: 1
         anilist-id: 121176
         start: 27
+  - title: "Gekijouban Jujutsu Kaisen 0"
+    seasons:
+      - season: 1
+        anilist-id: 131573
+        start: 1
