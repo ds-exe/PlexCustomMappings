@@ -152,6 +152,9 @@ entries:
       - season: 3
         anilist-id: 101474
         start: 1
+      - season: 4
+        anilist-id: 133844
+        start: 1
   - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     seasons:
       - season: 1
