@@ -323,3 +323,11 @@ entries:
       - season: 1
         anilist-id: 131573
         start: 1
+  - title: "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei Shiteshimatta..."
+    seasons:
+      - season: 1
+        anilist-id: 104647
+        start: 1
+      - season: 2
+        anilist-id: 120209
+        start: 1
