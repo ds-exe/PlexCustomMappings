@@ -334,3 +334,16 @@ entries:
       - season: 2
         anilist-id: 120209
         start: 1
+  - title: "Uzaki-chan wa Asobitai!"
+    seasons:
+      - season: 1
+        anilist-id: 115113
+        start: 1
+      - season: 2
+        anilist-id: 124395
+        start: 1
+  - title: "Yuusha Party o Tsuihou Sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau"
+    seasons:
+      - season: 1
+        anilist-id: 150695
+        start: 1
