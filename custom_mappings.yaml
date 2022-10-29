@@ -347,3 +347,11 @@ entries:
       - season: 1
         anilist-id: 150695
         start: 1
+  - title: "Peter Grill to Kenja no Jikan"
+    seasons:
+      - season: 1
+        anilist-id: 111965
+        start: 1
+      - season: 2
+        anilist-id: 141400
+        start: 1
