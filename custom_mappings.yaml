@@ -368,9 +368,9 @@ entries:
       - season: 1
         anilist-id: 113813
         start: 1
-      - season: 2
+      - season: 1
         anilist-id: 124410
-        start: 1
-      - season: 3
+        start: 13
+      - season: 1
         anilist-id: 154745
-        start: 1
+        start: 25
