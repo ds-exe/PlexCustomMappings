@@ -358,3 +358,19 @@ entries:
       - season: 2
         anilist-id: 141400
         start: 1
+  - title: "Bastard!! Ankoku no Hakaishin (2022)"
+    seasons:
+      - season: 1
+        anilist-id: 144677
+        start: 1
+  - title: "Kanojo, Okarishimasu"
+    seasons:
+      - season: 1
+        anilist-id: 113813
+        start: 1
+      - season: 2
+        anilist-id: 124410
+        start: 1
+      - season: 3
+        anilist-id: 154745
+        start: 1
