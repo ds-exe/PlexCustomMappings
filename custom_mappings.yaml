@@ -374,3 +374,18 @@ entries:
       - season: 1
         anilist-id: 154745
         start: 25
+  - title: "Eiyuu Ou, Bu o Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi"
+    seasons:
+      - season: 1
+        anilist-id: 142193
+        start: 1
+  - title: "Hyouken no Majutsushi ga Sekai o Suberu"
+    seasons:
+      - season: 1
+        anilist-id: 148116
+        start: 1
+  - title: "Ningen Fushin no Boukensha-tachi ga Sekai o Sukuu You Desu"
+    seasons:
+      - season: 1
+        anilist-id: 137909
+        start: 1
