@@ -389,3 +389,8 @@ entries:
       - season: 1
         anilist-id: 137909
         start: 1
+  - title: "Tensei Oujo to Tensai Reijou no Mahou Kakumei"
+    seasons:
+      - season: 1
+        anilist-id: 153629
+        start: 1
