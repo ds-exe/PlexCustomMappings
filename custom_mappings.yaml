@@ -397,3 +397,8 @@ entries:
       - season: 1
         anilist-id: 153629
         start: 1
+  - title: "Gekijouban Mahou Shoujo Madoka Magica"
+    seasons:
+      - season: 1
+        anilist-id: 11981
+        start: 1
