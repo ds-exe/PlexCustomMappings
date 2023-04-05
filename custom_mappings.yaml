@@ -402,3 +402,26 @@ entries:
       - season: 1
         anilist-id: 11981
         start: 1
+  - title: "Isekai de Cheat Skill o Te ni Shita Ore wa, Genjitsu Sekai o mo Musou Suru: Level Up wa Jinsei o Kaeta"
+    seasons:
+      - season: 1
+        anilist-id: 153845
+        start: 1
+  - title: "Tensei Kizoku no Isekai Boukenroku: Jichou o Shiranai Kamigami no Shito"
+    seasons:
+      - season: 1
+        anilist-id: 153332
+        start: 1
+  - title: "Yamada-kun to Lv999 no Koi o Suru"
+    seasons:
+      - season: 1
+        anilist-id: 154965
+        start: 1
+  - title: "Vanitas no Karte"
+    seasons:
+      - season: 1
+        anilist-id: 131646
+        start: 1
+      - season: 1
+        anilist-id: 135136
+        start: 13
