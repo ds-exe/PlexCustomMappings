@@ -425,3 +425,13 @@ entries:
       - season: 1
         anilist-id: 135136
         start: 13
+  - title: "Spy Kyoushitsu"
+    seasons:
+      - season: 1
+        anilist-id: 146323
+        start: 1
+  - title: "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei Shite Shison-tachi no Gakkou e Kayou"
+    seasons:
+      - season: 2
+        anilist-id: 130588
+        start: 1
