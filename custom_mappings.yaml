@@ -435,3 +435,8 @@ entries:
       - season: 2
         anilist-id: 130588
         start: 1
+  - title: "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+    seasons:
+      - season: 1
+        anilist-id: 151384
+        start: 1
