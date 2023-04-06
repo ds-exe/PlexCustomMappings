@@ -440,3 +440,9 @@ entries:
       - season: 1
         anilist-id: 151384
         start: 1
+  - title: "Kono Subarashii Sekai ni Bakuen o!"
+    seasons:
+      - season: 1
+        anilist-id: 150075
+        start: 1
+
