@@ -202,6 +202,9 @@ entries:
       - season: 3
         anilist-id: 142329
         start: 1
+      - season: 4
+        anilist-id: 145139
+        start: 1
   - title: "Shuumatsu no Harem"
     seasons:
       - season: 1
