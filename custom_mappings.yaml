@@ -454,3 +454,8 @@ entries:
       - season: 1
         anilist-id: 150075
         start: 1
+  - title: "Gekijouban Isekai Quartet: Another World"
+    seasons:
+      - season: 1
+        anilist-id: 117074
+        start: 1
