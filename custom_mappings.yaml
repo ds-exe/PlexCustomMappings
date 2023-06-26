@@ -459,3 +459,8 @@ entries:
       - season: 1
         anilist-id: 117074
         start: 1
+  - title: "Gekijouban Tensei Shitara Slime Datta Ken: Guren no Kizuna Hen"
+    seasons:
+      - season: 1
+        anilist-id: 139498
+        start: 1
