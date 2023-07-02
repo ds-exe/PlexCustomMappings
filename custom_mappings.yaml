@@ -163,6 +163,9 @@ entries:
       - season: 1
         anilist-id: 127720
         start: 12
+      - season: 2
+        anilist-id: 146065
+        start: 0
   - title: "Gekijouban Kimetsu no Yaiba: Mugen Ressha Hen"
     seasons:
       - season: 1
