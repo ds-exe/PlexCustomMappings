@@ -475,3 +475,11 @@ entries:
       - season: 1
         anilist-id: 145064
         start: 25
+  - title: "Sugar Apple Fairy Tale"
+    seasons:
+      - season: 1
+        anilist-id: 139821
+        start: 1
+      - season: 1
+        anilist-id: 163079
+        start: 13
