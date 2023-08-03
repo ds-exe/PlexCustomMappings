@@ -378,6 +378,9 @@ entries:
       - season: 1
         anilist-id: 144677
         start: 1
+      - season: 2
+        anilist-id: 159926
+        start: 1
   - title: "Kanojo, Okarishimasu"
     seasons:
       - season: 1
