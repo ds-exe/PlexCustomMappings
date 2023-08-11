@@ -491,3 +491,11 @@ entries:
       - season: 1
         anilist-id: 153360
         start: 1
+  - title: "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+    seasons:
+      - season: 1
+        anilist-id: 117612
+        start: 1
+      - season: 1
+        anilist-id: 139648
+        start: 14
