@@ -499,3 +499,8 @@ entries:
       - season: 1
         anilist-id: 139648
         start: 14
+  - title: "Sousou no Frieren"
+    seasons:
+      - season: 1
+        anilist-id: 154587
+        start: 4
