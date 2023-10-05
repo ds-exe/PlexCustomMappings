@@ -499,11 +499,3 @@ entries:
       - season: 1
         anilist-id: 139648
         start: 14
-  - title: "Kage no Jitsuryokusha ni Naritakute!"
-    seasons:
-      - season: 1
-        anilist-id: 130298
-        start: 1
-      - season: 1
-        anilist-id: 161964
-        start: 21
