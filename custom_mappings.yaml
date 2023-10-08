@@ -499,3 +499,8 @@ entries:
       - season: 1
         anilist-id: 139648
         start: 14
+  - title: "Shangri-La Frontier: Kusogee Hunter, Kamige ni Idoman to Su"
+    seasons:
+      - season: 1
+        anilist-id: 151970
+        start: 1
