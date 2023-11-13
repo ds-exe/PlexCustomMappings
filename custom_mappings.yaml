@@ -269,6 +269,9 @@ entries:
       - season: 1
         anilist-id: 142838
         start: 13
+      - season: 1
+        anilist-id: 158927
+        start: 26
   - title: "Ansatsu Kyoushitsu"
     seasons:
       - season: 1
@@ -321,6 +324,9 @@ entries:
       - season: 3
         anilist-id: 131518
         start: 1
+      - season: 3
+        anilist-id: 162670
+        start: 12
   - title: "Cuckoo no Iinazuke"
     seasons:
       - season: 1
