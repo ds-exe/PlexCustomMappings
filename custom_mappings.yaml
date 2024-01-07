@@ -521,3 +521,19 @@ entries:
       - season: 1
         anilist-id: 20792
         start: 13
+  - title: "Mashle"
+    seasons:
+      - season: 1
+        anilist-id: 151801
+        start: 1
+      - season: 1
+        anilist-id: 166610
+        start: 13
+  - title: "Boku no Kokoro no Yabai Yatsu"
+    seasons:
+      - season: 1
+        anilist-id: 153152
+        start: 1
+      - season: 1
+        anilist-id: 166216
+        start: 13
