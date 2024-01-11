@@ -537,3 +537,11 @@ entries:
       - season: 1
         anilist-id: 166216
         start: 13
+  - title: "Urusei Yatsura (2022)"
+    seasons:
+      - season: 1
+        anilist-id: 143277
+        start: 1
+      - season: 1
+        anilist-id: 155645
+        start: 24
