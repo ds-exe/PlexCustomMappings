@@ -337,6 +337,9 @@ entries:
       - season: 1
         anilist-id: 126213
         start: 1
+      - season: 2
+        anilist-id: 156131
+        start: 1
   - title: "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan o Erande Iraremasen"
     seasons:
       - season: 1
@@ -545,3 +548,23 @@ entries:
       - season: 1
         anilist-id: 155645
         start: 24
+  - title: "Saijaku Tamer wa Gomi Hiroi no Tabi o Hajimemashita."
+    seasons:
+      - season: 1
+        anilist-id: 156891
+        start: 1
+  - title: "Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill Mochi Tank, Yuusha Party o Tsuihou Sareru"
+    seasons:
+      - season: 1
+        anilist-id: 169935
+        start: 1
+  - title: "Sasaki to P-chan"
+    seasons:
+      - season: 1
+        anilist-id: 152682
+        start: 1
+  - title: "Sasaki to P-chan"
+    seasons:
+      - season: 1
+        anilist-id: 152682
+        start: 1
