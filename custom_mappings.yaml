@@ -568,3 +568,14 @@ entries:
       - season: 1
         anilist-id: 152682
         start: 1
+  - title: "En'en no Shouboutai"
+    seasons:
+      - season: 1
+        anilist-id: 105310
+        start: 1
+      - season: 2
+        anilist-id: 114236
+        start: 1
+      - season: 3
+        anilist-id: 149118
+        start: 1
