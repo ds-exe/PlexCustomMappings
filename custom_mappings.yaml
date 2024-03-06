@@ -579,3 +579,8 @@ entries:
       - season: 3
         anilist-id: 149118
         start: 1
+  - title: "Kenja no Deshi o Nanoru Kenja"
+    seasons:
+      - season: 1
+        anilist-id: 119056
+        start: 1
