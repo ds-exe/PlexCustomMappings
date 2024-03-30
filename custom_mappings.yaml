@@ -91,6 +91,9 @@ entries:
       - season: 1
         anilist-id: 116742
         start: 37
+      - season: 1
+        anilist-id: 156822
+        start: 49
   - title: "100-man no Inochi no Ue ni Ore wa Tatte Iru"
     seasons:
       - season: 1
