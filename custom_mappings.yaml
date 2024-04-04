@@ -55,23 +55,6 @@ entries:
     seasons:
       - season: 1
         anilist-id: 114232
-  - title: "Boku no Hero Academia"
-    seasons:
-      - season: 1
-        anilist-id: 21459
-        start: 1
-      - season: 1
-        anilist-id: 21856
-        start: 14
-      - season: 1
-        anilist-id: 100166
-        start: 39
-      - season: 1
-        anilist-id: 104276
-        start: 64
-      - season: 1
-        anilist-id: 117193
-        start: 89
   - title: "Isekai Maou to Shoukan Shoujo no Dorei Majutsu"
     seasons:
       - season: 2
