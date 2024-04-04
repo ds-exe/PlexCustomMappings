@@ -65,18 +65,12 @@ entries:
         anilist-id: 116741
   - title: "Tensei Shitara Slime Datta Ken"
     seasons:
-      - season: 1
-        anilist-id: 101280
-        start: 1
-      - season: 1
+      - season: 2
         anilist-id: 108511
-        start: 25
-      - season: 1
+        start: 1
+      - season: 2
         anilist-id: 116742
-        start: 37
-      - season: 1
-        anilist-id: 156822
-        start: 49
+        start: 13
   - title: "100-man no Inochi no Ue ni Ore wa Tatte Iru"
     seasons:
       - season: 1
