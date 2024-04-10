@@ -49,6 +49,9 @@ entries:
       - season: 2
         anilist-id: 21699
         start: 1
+      - season: 3
+        anilist-id: 136804
+        start: 1
   - title: "Kono Subarashii Sekai ni Shukufuku o! Kurenai Densetsu"
     seasons:
       - season: 1
