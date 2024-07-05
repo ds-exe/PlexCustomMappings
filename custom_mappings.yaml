@@ -548,3 +548,21 @@ entries:
       - season: 1
         anilist-id: 156023
         start: 1
+  - title: "NieR:Automata Ver1.1a"
+    seasons:
+      - season: 1
+        anilist-id: 145665
+        start: 1
+      - season: 1
+        anilist-id: 167420
+        start: 13
+  - title: "Ore wa Subete o "Parry" Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai"
+    seasons:
+      - season: 1
+        anilist-id: 170695
+        start: 1
+  - title: "Hazure Waku no "Joutai Ijou Skill" de Saikyou ni Natta Ore ga Subete o Juurin Suru made"
+    seasons:
+      - season: 1
+        anilist-id: 173694
+        start: 1
