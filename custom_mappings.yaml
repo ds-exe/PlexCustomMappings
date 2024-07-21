@@ -566,3 +566,16 @@ entries:
       - season: 1
         anilist-id: 173694
         start: 1
+  - title: "Kami no Tou"
+    seasons:
+      - season: 1
+        anilist-id: 115230
+        start: 1
+      - season: 2
+        anilist-id: 153406
+        start: 1
+  - title: "Naze Boku no Sekai o Dare mo Oboeteinai no ka?"
+    seasons:
+      - season: 1
+        anilist-id: 167419
+        start: 1
