@@ -579,3 +579,13 @@ entries:
       - season: 1
         anilist-id: 167419
         start: 1
+  - title: "Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san"
+    seasons:
+      - season: 1
+        anilist-id: 162804
+        start: 1
+  - title: "Benriya Saitou-san, Isekai ni Iku"
+    seasons:
+      - season: 1
+        anilist-id: 144092
+        start: 1
