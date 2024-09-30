@@ -584,3 +584,11 @@ entries:
       - season: 1
         anilist-id: 144092
         start: 1
+  - title: "Tensei Kizoku, Kantei Skill de Nariagaru"
+    seasons:
+      - season: 1
+        anilist-id: 164702
+        start: 1
+      - season: 1
+        anilist-id: 178434
+        start: 13
