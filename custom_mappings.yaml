@@ -584,3 +584,8 @@ entries:
       - season: 1
         anilist-id: 144092
         start: 1
+  - title: 'Saikyou no Shien-shoku "Wajutsushi" Dearu Ore wa Sekai Saikyou Clan o Shitagaeru'
+    seasons:
+      - season: 1
+        anilist-id: 177104
+        start: 1
