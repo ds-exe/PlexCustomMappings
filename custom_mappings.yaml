@@ -589,3 +589,13 @@ entries:
       - season: 1
         anilist-id: 177104
         start: 1
+  - title: "Sayounara Ryuusei, Konnichiwa Jinsei"
+    seasons:
+      - season: 1
+        anilist-id: 176053
+        start: 1
+  - title: "Yarinaoshi Reijou wa Ryuutei Heika o Kouryakuchuu"
+    seasons:
+      - season: 1
+        anilist-id: 164299
+        start: 1
