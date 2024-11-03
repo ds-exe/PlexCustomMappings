@@ -470,6 +470,9 @@ entries:
       - season: 1
         anilist-id: 151970
         start: 1
+      - season: 2
+        anilist-id: 176508
+        start: 1
   - title: "Fate/Stay Night: Unlimited Blade Works (2014)"
     seasons:
       - season: 1
