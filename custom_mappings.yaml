@@ -602,3 +602,17 @@ entries:
       - season: 1
         anilist-id: 164299
         start: 1
+  - title: "Re:Zero kara Hajimeru Isekai Seikatsu"
+    seasons:
+      - season: 1
+        anilist-id: 21355
+        start: 1
+      - season: 2
+        anilist-id: 108632
+        start: 1
+      - season: 2
+        anilist-id: 119661
+        start: 14
+      - season: 3
+        anilist-id: 163134
+        start: 1
