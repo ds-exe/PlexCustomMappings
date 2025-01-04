@@ -616,3 +616,16 @@ entries:
       - season: 3
         anilist-id: 163134
         start: 1
+  - title: "Maou-sama, Retry!"
+    seasons:
+      - season: 1
+        anilist-id: 104252
+        start: 1
+      - season: 2
+        anilist-id: 168500
+        start: 1
+  - title: 'Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) o Mugen ni Taberareru You ni Natta Ken ni Tsuite'
+    seasons:
+      - season: 1
+        anilist-id: 178100
+        start: 1
