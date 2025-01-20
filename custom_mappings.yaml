@@ -278,6 +278,9 @@ entries:
       - season: 3
         anilist-id: 162670
         start: 12
+      - season: 4
+        anilist-id: 172019
+        start: 1
   - title: "Cuckoo no Iinazuke"
     seasons:
       - season: 1
@@ -628,4 +631,24 @@ entries:
     seasons:
       - season: 1
         anilist-id: 178100
+        start: 1
+  - title: "Botsuraku Yotei no Kizoku Dakedo, Hima Datta kara Mahou o Kiwamete Mita"
+    seasons:
+      - season: 1
+        anilist-id: 176063
+        start: 1
+  - title: 'Fuguu-shoku "Kanteishi" ga Jitsu wa Saikyou Datta'
+    seasons:
+      - season: 1
+        anilist-id: 178548
+        start: 1
+  - title: "Guild no Uketsukejou Desu ga, Zangyou wa Iya nano de Boss o Solo Toubatsu Shiyou to Omoimasu"
+    seasons:
+      - season: 1
+        anilist-id: 167143
+        start: 1
+  - title: "A Rank Party o Ridatsu Shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu o Mezasu."
+    seasons:
+      - season: 1
+        anilist-id: 180812
         start: 1
