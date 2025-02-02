@@ -652,3 +652,11 @@ entries:
       - season: 1
         anilist-id: 180812
         start: 1
+  - title: "Sakamoto Days (2025)"
+    seasons:
+      - season: 1
+        anilist-id: 177709
+        start: 1
+      - season: 2
+        anilist-id: 184237
+        start: 1
