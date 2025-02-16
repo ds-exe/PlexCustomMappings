@@ -660,3 +660,8 @@ entries:
       - season: 2
         anilist-id: 184237
         start: 1
+  - title: "Dungeon Meshi"
+    seasons:
+      - season: 1
+        anilist-id: 153518
+        start: 1
