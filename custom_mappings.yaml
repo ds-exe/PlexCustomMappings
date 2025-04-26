@@ -665,3 +665,13 @@ entries:
       - season: 1
         anilist-id: 153518
         start: 1
+  - title: "Kanpeki Sugite Kawaige ga Nai to Kon'yaku Hakisareta Seijo wa Ringoku ni Urareru"
+    seasons:
+      - season: 1
+        anilist-id: 183275
+        start: 1
+  - title: "Ore wa Seikan Kokka no Akutoku Ryoushu!"
+    seasons:
+      - season: 1
+        anilist-id: 183274
+        start: 1
