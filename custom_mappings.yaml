@@ -675,3 +675,17 @@ entries:
       - season: 1
         anilist-id: 183161
         start: 1
+  - title: "Saiki Kusuo no Sainan (2016)"
+    seasons:
+      - season: 1
+        anilist-id: 21804
+        start: 1
+      - season: 2
+        anilist-id: 98034
+        start: 1
+      - season: 3
+        anilist-id: 112625
+        start: 1
+      - season: 4
+        anilist-id: 104580
+        start: 1
