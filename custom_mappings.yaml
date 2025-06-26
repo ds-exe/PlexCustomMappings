@@ -62,10 +62,17 @@ entries:
       - season: 1
         anilist-id: 101291
         start: 1
-  - title: "Seishun Buta Yarou wa Yumemiru Shoujo no Yume o Minai"
-    seasons:
-      - season: 1
+      - season: 2
         anilist-id: 104157
+        start: 1
+      - season: 2
+        anilist-id: 154967
+        start: 2
+      - season: 2
+        anilist-id: 161474
+        start: 3
+      - season: 3
+        anilist-id: 171046
         start: 1
   - title: "Getsuyoubi no Tawawa"
     seasons:
