@@ -362,17 +362,6 @@ entries:
       - season: 2
         anilist-id: 159926
         start: 1
-  - title: "Kanojo, Okarishimasu"
-    seasons:
-      - season: 1
-        anilist-id: 113813
-        start: 1
-      - season: 1
-        anilist-id: 124410
-        start: 13
-      - season: 1
-        anilist-id: 154745
-        start: 25
   - title: "Eiyuu Ou, Bu o Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi"
     seasons:
       - season: 1
