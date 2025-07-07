@@ -115,6 +115,11 @@ entries:
       - season: 4
         anilist-id: 133844
         start: 1
+  - title: "Gekijouban Overlord: Sei Oukoku Hen"
+    seasons:
+      - season: 1
+        anilist-id: 133845
+        start: 1
   - title: "Mushoku Tensei: Isekai Ittara Honki Dasu"
     seasons:
       - season: 1
@@ -186,6 +191,9 @@ entries:
     seasons:
       - season: 1
         anilist-id: 132405
+        start: 1
+      - season: 2
+        anilist-id: 154768
         start: 1
   - title: "Leadale no Daichi nite"
     seasons:
@@ -692,4 +700,14 @@ entries:
         start: 1
       - season: 4
         anilist-id: 104580
+        start: 1
+  - title: "Isekai Mokushiroku Mynoghra"
+    seasons:
+      - season: 1
+        anilist-id: 178433
+        start: 1
+  - title: "Yuusha Party o Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugai Sugiru"
+    seasons:
+      - season: 1
+        anilist-id: 179885
         start: 1
