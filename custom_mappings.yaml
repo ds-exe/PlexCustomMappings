@@ -304,10 +304,16 @@ entries:
       - season: 4
         anilist-id: 172019
         start: 1
+      - season: 4
+        anilist-id: 189117
+        start: 13
   - title: "Cuckoo no Iinazuke"
     seasons:
       - season: 1
         anilist-id: 132052
+        start: 1
+      - season: 2
+        anilist-id: 179828
         start: 1
   - title: "Shin no Nakama ja Nai to Yuusha no Party o Oidasareta node, Henkyou de Slow Life Suru Koto ni Shimashita"
     seasons:
