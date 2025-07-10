@@ -551,10 +551,13 @@ entries:
       - season: 1
         anilist-id: 119056
         start: 1
-  - title: "Tensei Shitara Dai Nana Ouji Datta no de, Kimamani Majutsu o Kiwamemasu"
+  - title: "Tensei Shitara Dai Nana Ouji Datta no de, Kimama ni Majutsu o Kiwamemasu"
     seasons:
       - season: 1
         anilist-id: 156415
+        start: 1
+      - season: 2
+        anilist-id: 178090
         start: 1
   - title: "Maou no Ore ga Dorei Elf o Yome ni Shitanda ga, Dou Medereba Ii?"
     seasons:
