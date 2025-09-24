@@ -720,3 +720,8 @@ entries:
       - season: 1
         anilist-id: 179885
         start: 1
+  - title: "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha"
+    seasons:
+      - season: 1
+        anilist-id: 178869
+        start: 1
