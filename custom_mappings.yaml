@@ -725,3 +725,13 @@ entries:
       - season: 1
         anilist-id: 178869
         start: 1
+  - title: "Mikata ga Yowasugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu"
+    seasons:
+      - season: 1
+        anilist-id: 188487
+        start: 1
+  - title: 'Shinjite Ita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakama-tachi o Te ni Irete Moto Party Member to Sekai ni Fukushuu & "Zamaa!" Shimasu!'
+    seasons:
+      - season: 1
+        anilist-id: 184322
+        start: 1
