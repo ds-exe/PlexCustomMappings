@@ -735,3 +735,11 @@ entries:
       - season: 1
         anilist-id: 184322
         start: 1
+  - title: "Nageki no Bourei wa Intai Shitai"
+    seasons:
+      - season: 1
+        anilist-id: 175019
+        start: 1
+      - season: 1
+        anilist-id: 185801
+        start: 14
