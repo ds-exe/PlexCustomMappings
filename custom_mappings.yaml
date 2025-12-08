@@ -743,3 +743,8 @@ entries:
       - season: 1
         anilist-id: 185801
         start: 14
+  - title: "Gekijouban Chainsaw Man: Reze Hen"
+    seasons:
+      - season: 1
+        anilist-id: 171627
+        start: 1
