@@ -457,14 +457,6 @@ entries:
       - season: 1
         anilist-id: 139498
         start: 1
-  - title: "Jujutsu Kaisen"
-    seasons:
-      - season: 1
-        anilist-id: 113415
-        start: 1
-      - season: 1
-        anilist-id: 145064
-        start: 25
   - title: "Sugar Apple Fairy Tale"
     seasons:
       - season: 1
@@ -747,4 +739,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 171627
+        start: 1
+  - title: "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara o Eru"
+    seasons:
+      - season: 1
+        anilist-id: 185993
+        start: 1
+  - title: "Yuusha Party o Oidasareta Kiyoubinbou"
+    seasons:
+      - season: 1
+        anilist-id: 187264
         start: 1
