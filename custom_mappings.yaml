@@ -544,6 +544,9 @@ entries:
       - season: 3
         anilist-id: 149118
         start: 1
+      - season: 3
+        anilist-id: 179062
+        start: 13
   - title: "Kenja no Deshi o Nanoru Kenja"
     seasons:
       - season: 1
@@ -749,4 +752,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 187264
+        start: 1
+  - title: '"Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party o Tsuihou Sareta node, Outo de Kimama ni Kurashitai'
+    seasons:
+      - season: 1
+        anilist-id: 191718
+        start: 1
+  - title: "Osananajimi to wa Lovecome ni Naranai"
+    seasons:
+      - season: 1
+        anilist-id: 189565
         start: 1
