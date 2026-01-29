@@ -144,27 +144,27 @@ entries:
       - season: 1
         anilist-id: 16498
         start: 1
-      - season: 1
+      - season: 2
         anilist-id: 20958
-        start: 26
-      - season: 1
+        start: 1
+      - season: 3
         anilist-id: 99147
-        start: 38
-      - season: 1
+        start: 1
+      - season: 3
         anilist-id: 104578
-        start: 50
-      - season: 1
+        start: 13
+      - season: 4
         anilist-id: 110277
-        start: 60
-      - season: 1
+        start: 1
+      - season: 4
         anilist-id: 131681
-        start: 76
-      - season: 1
+        start: 17
+      - season: 4
         anilist-id: 146984
-        start: 88
-      - season: 1
+        start: 29
+      - season: 4
         anilist-id: 162314
-        start: 89
+        start: 30
   - title: "Kimetsu no Yaiba"
     seasons:
       - season: 1
