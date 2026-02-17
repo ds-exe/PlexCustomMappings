@@ -337,6 +337,9 @@ entries:
       - season: 1
         anilist-id: 121176
         start: 27
+      - season: 1
+        anilist-id: 121176
+        start: 37
   - title: "Gekijouban Jujutsu Kaisen 0"
     seasons:
       - season: 1
@@ -766,3 +769,19 @@ entries:
       - season: 1
         anilist-id: 189565
         start: 1
+  - title: "Kimi no Koto ga Dai Dai Dai Dai Daisuki na Hyakunin no Kanojo"
+    seasons:
+      - season: 1
+        anilist-id: 162694
+        start: 1
+      - season: 2
+        anilist-id: 172258
+        start: 1
+  - title: "Nageki no Bourei wa Intai Shitai (2025)"
+    seasons:
+      - season: 1
+        anilist-id: 175019
+        start: 1
+      - season: 1
+        anilist-id: 185801
+        start: 14
