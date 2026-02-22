@@ -785,3 +785,8 @@ entries:
       - season: 1
         anilist-id: 185801
         start: 14
+  - title: "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Namonaki Mura o Saikyou no Jousai Toshi ni"
+    seasons:
+      - season: 1
+        anilist-id: 191205
+        start: 1
