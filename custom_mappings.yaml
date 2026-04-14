@@ -790,3 +790,8 @@ entries:
       - season: 1
         anilist-id: 191205
         start: 1
+  - title: "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+    seasons:
+      - season: 4
+        anilist-id: 180745
+        start: 1
