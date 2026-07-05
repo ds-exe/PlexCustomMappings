@@ -802,6 +802,9 @@ entries:
         start: 1
   - title: "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru"
     seasons:
+      - season: 1
+        anilist-id: 185262
+        start: 1
       - season: 2
         anilist-id: 209983
         start: 1
