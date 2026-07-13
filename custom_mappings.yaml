@@ -726,6 +726,9 @@ entries:
       - season: 1
         anilist-id: 178869
         start: 1
+      - season: 2
+        anilist-id: 198946
+        start: 1
   - title: "Mikata ga Yowasugite Hojo Mahou ni Tesshite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou o Mezasu"
     seasons:
       - season: 1
@@ -830,4 +833,17 @@ entries:
     seasons:
       - season: 1
         anilist-id: 208044
+        start: 1
+  - title: "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu"
+    seasons:
+      - season: 1
+        anilist-id: 132474
+        start: 1
+      - season: 2
+        anilist-id: 185542
+        start: 1
+  - title: "Toukutsu Ou"
+    seasons:
+      - season: 1
+        anilist-id: 184356
         start: 1
