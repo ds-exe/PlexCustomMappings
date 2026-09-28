@@ -27,12 +27,21 @@ entries:
         anilist-id: 116741
   - title: "Tensei Shitara Slime Datta Ken"
     seasons:
+      - season: 1
+        anilist-id: 101280
+        start: 1
       - season: 2
         anilist-id: 108511
         start: 1
       - season: 2
         anilist-id: 116742
         start: 13
+      - season: 3
+        anilist-id: 156822
+        start: 1
+      - season: 4
+        anilist-id: 182205
+        start: 1
   - title: "100-man no Inochi no Ue ni Ore wa Tatte Iru"
     seasons:
       - season: 1
@@ -819,7 +828,7 @@ entries:
       - season: 3
         anilist-id: 196840
         start: 1
-  - title: "Koko wa Ore ni Makasete Saki ni Ike to Itte kara 10-nen ga Tattara Densetsu ni Natte Ita."
+  - title: "Koko wa Ore ni Makasete Saki ni Ike to Itte kara Juunen ga Tattara Densetsu ni Natte Ita."
     seasons:
       - season: 1
         anilist-id: 199748
@@ -846,4 +855,14 @@ entries:
     seasons:
       - season: 1
         anilist-id: 184356
+        start: 1
+  - title: "Gekijouban Kimetsu no Yaiba: Mugen-jou Hen"
+    seasons:
+      - season: 1
+        anilist-id: 178788
+        start: 1
+  - title: "Saijo no Osewa: Takane no Hana-darake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) o Kagenagara Osewa Suru Koto ni Narimashita"
+    seasons:
+      - season: 1
+        anilist-id: 201514
         start: 1
