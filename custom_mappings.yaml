@@ -866,3 +866,8 @@ entries:
       - season: 1
         anilist-id: 201514
         start: 1
+  - title: 'Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life o Ouka Suru. Ore wa Buki dake Janaku, Arayuru Mono ni "Kyouka Point" o Fuyo Dekirushi, Ore no Ishi de Itsu demo Kouka o Kaijo Dekiru Kedo, Nokotta Hitotachi Daijoubu?'
+    seasons:
+      - season: 1
+        anilist-id: 207329
+        start: 1
